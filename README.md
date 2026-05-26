@@ -28,4 +28,4 @@ Developed an interactive Power BI dashboard to analyze sales, profit, discounts,
 
 ## Dashboard Preview
 (Add your screenshot below)
-Screenshot 2026-05-26 150537.png
+![Dashboard](C:\Users\Ankita\OneDrive\Desktop\Superstore Sales Dashboard\Screenshot 2026-05-26 150537.png)
