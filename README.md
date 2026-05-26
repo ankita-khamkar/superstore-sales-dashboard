@@ -28,3 +28,4 @@ Developed an interactive Power BI dashboard to analyze sales, profit, discounts,
 
 ## Dashboard Preview
 (Add your screenshot below)
+Screenshot 2026-05-26 150537.png
